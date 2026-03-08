@@ -1,0 +1,9 @@
+How I installed C/C++ Compilers and GLUT on my system
+My System:
+Installing Compilers and verifying installationWriting a program in C/C++, compiling and executing 
+Writing a program in C:
+Output:Compiling & Executing:
+Similarly in C++:GLUT - The OpenGL Utility Toolkit:
+Installing glut:
+Writing/ Compiling/ Executing a program using GLUT:Output: 
+Made b y: Muhammad A li

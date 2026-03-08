@@ -1,0 +1,5 @@
+json
+
+"CppStandard": "gnu++17",
+
+* C++ language standard
